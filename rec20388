@@ -1,0 +1,10 @@
+Collier-Elodie-assn02:
+total 13344
+-rw-r--r--. 1 myid 13627540 Sep 18 12:59 Account
+-rw-r--r--. 1 myid     3004 Sep 18 12:57 Account.h
+-rw-r--r--. 1 myid     2990 Sep 17 16:37 Account.h~
+-rwxr-xr-x. 1 myid    13952 Sep 18 12:59 Driver
+-rw-r--r--. 1 myid      731 Sep 17 15:56 Driver.cpp
+-rwxr-x---. 1 myid      116 Sep 18 12:10 makefile
+-rw-r--r--. 1 myid        0 Sep 20 11:37 rec20388
+/home/myid/egc99826/Collier-Elodie-assn02:/home/myid/csci-1730
